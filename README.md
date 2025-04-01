@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akshayapoorinima
+- 👋 Hi, I’m S B L Akshaya
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on top companies
